@@ -1,4 +1,4 @@
-💼 LinkedIn Auto Apply
+***LinkedIn Auto Apply***
 
 **Tired of manually applying to jobs on LinkedIn?**  
 Let automation do the heavy lifting. **LinkedIn-Auto-Apply** is a smart tool designed to streamline your job search by automatically applying to relevant job postings—saving you time, effort, and clicks.
