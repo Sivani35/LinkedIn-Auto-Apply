@@ -6,10 +6,10 @@ Let automation do the heavy lifting. **LinkedIn-Auto-Apply** is a smart tool des
 **Features**
 - Automatically scans and applies to jobs based on your preferences
 - Customizable filters for job titles, locations, and keywords
-- Secure and efficient—built with user privacy in mind
+- Secure and efficient, built with user privacy in mind
 - Easy to set up and run with minimal configuration
 
-**Why Use This Tool?**
+**Why Use This Tool?**/n
 Job hunting can be exhausting. With LinkedIn-Auto-Apply, you can:
 - Focus on preparing for interviews instead of filling out applications
 - Increase your reach by applying to more jobs in less time
